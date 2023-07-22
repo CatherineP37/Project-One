@@ -17,6 +17,13 @@ h2 {
     font-weight: bold;
 }
 
+#back-button {
+    background-color: #5C4314;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Arial;
+}
+
 /* header */
 
 header {
@@ -122,7 +129,7 @@ h1 {
     padding-left: 100px;
     padding-right: 100px;
     position: absolute;
-    left: 37%;
+    left: 35%;
     color: #FFFFFF;
     text-decoration: none;
     font-size: 120%;
